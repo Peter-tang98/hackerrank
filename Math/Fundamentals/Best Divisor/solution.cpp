@@ -59,3 +59,9 @@ int main(){
     cout << ((s(n) > s(max) || (s(n) == s(max) && n < max)) ? n : max) << endl;
 }
 
+// input
+12
+    
+// output
+6
+
